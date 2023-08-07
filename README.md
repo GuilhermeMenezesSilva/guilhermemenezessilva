@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo!
 
-### Meu nome é Guilherme, mas pode me chamar de Menezes.
+### Meu nome é Guilherme, mas pode me chamar de menezes.
 
 - :telephone: Atualmente estou trabalhando na Foundever como Suporte Técnico Jr.
 - :mortar_board: Estou cursando Analise e Desenvolvimento de Sistemas pela FIAP - (Faculdade de Informática e Administração Paulista).
