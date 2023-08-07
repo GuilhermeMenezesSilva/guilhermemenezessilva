@@ -1,16 +1,28 @@
-### Hi there 👋
+# Olá, seja bem-vindo!
 
-<!--
-**GuilhermeMenezesSilva/guilhermemenezessilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Meu nome é Guilherme, mas pode me chamar de Menezes.
 
-Here are some ideas to get you started:
+- :telephone: Atualmente estou trabalhando na Foundever como Suporte Técnico Jr.
+- :mortar_board: Estou cursando Analise e Desenvolvimento de Sistemas pela FIAP - (Faculdade de Informática e Administração Paulista).
+- :man_technologist: Desenvolvo aplicações em Front-end e também em Back-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Meios de contato:
+<div>
+  <a href = "mailto:guissilvamenezes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-menezes-0b186b232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+## Ferramentas
+<div style="display: inline_block">
+  <img align="center" alt="Gui-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img align="center" alt="Gui-Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+</div>
+
+## Linguagens
+<div style="display: inline_block">
+  <img align="center" alt="Gui-HTMl" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img align="center" alt="Gui-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
+  <img align="center" alt="Gui-JS" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="Gui-React" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>  
+  <img align="center" alt="Gui-Java" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+</div>  
