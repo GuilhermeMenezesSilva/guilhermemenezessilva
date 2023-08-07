@@ -4,7 +4,7 @@
 
 - :telephone: Atualmente estou trabalhando na Foundever como Suporte Técnico Jr.
 - :mortar_board: Estou cursando Analise e Desenvolvimento de Sistemas pela FIAP - (Faculdade de Informática e Administração Paulista).
-- :man_technologist: Desenvolvo aplicações em Front-end e também em Back-end.
+- :man_technologist: Desenvolvo aplicações Front-end e também Back-end.
 
 ## Meios de contato:
 <div>
