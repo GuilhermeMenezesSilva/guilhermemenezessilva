@@ -27,3 +27,9 @@
   <img align="center" alt="Gui-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Gui-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>  
+
+<div>
+  <a href="https://github.com/GuilhermeMenezesSilva">
+  <img heigth="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemenezessilva&layout=compact&langs_count=16&theme=cobalt"/>
+  <img heigth="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuilhermeMenezesSilva&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true">
+</div>
