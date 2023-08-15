@@ -35,5 +35,3 @@
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuilhermeMenezesSilva&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true">
   </a>
 </div>
-
-![Snake animation](https://github.com/eagrundy/guilhermemenezessilva/blob/output/github-contribution-grid-snake.svg)
