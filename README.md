@@ -29,7 +29,7 @@
 </div>  
 
 ## GitHub Stats
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/GuilhermeMenezesSilva">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemenezessilva&layout=compact&langs_count=16&theme=cobalt"/>
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuilhermeMenezesSilva&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true">
