@@ -29,9 +29,10 @@
 </div>  
 
 ## GitHub Stats
-<div style="display: inline_block">
+<div style="display: inline-block">
   <a href="https://github.com/GuilhermeMenezesSilva">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuilhermeMenezesSilva&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" style="width: 50%;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemenezessilva&layout=compact&langs_count=16&theme=cobalt" style="width: 50%;">
+    <img height="180em" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuilhermeMenezesSilva&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true">
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemenezessilva&layout=compact&langs_count=16&theme=cobalt"/>
   </a>
 </div>
+
