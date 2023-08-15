@@ -18,7 +18,7 @@
   <img align="center" alt="Gui-Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 </div>
 
-## Linguagens 
+## Linguagens e Técnologias
 <div style="display: inline_block">
   <img align="center" alt="Gui-HTMl" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" alt="Gui-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
