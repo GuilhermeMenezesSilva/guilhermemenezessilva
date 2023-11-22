@@ -3,30 +3,28 @@
 ### Meu nome é Guilherme.
 
 - :telephone: Atualmente estou trabalhando na Foundever como Suporte Técnico Jr.
-- :man_student:	 Estou cursando Analise e Desenvolvimento de Sistemas pela FIAP - (Faculdade de Informática e Administração Paulista).
+- :man_student: Estou cursando Análise e Desenvolvimento de Sistemas pela FIAP - (Faculdade de Informática e Administração Paulista).
 - :man_technologist: Desenvolvo aplicações Front-end e também Back-end.
-- :computer: Soluciono problemas de hardware/infraestrutura e software.
 
 ## Meios de contato:
 <div>
-  <a href = "mailto:guissilvamenezes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:guissilvamenezes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-menezes-0b186b232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ## IDE's 
 <div style="display: inline_block">
-  <img align="center" alt="Gui-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img align="center" alt="Gui-Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+  <img alt="VSCode" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ-20232A?logo=intellij-idea&logoColor=white&style=for-the-badge" />
 </div>
 
-## Linguagens e Técnologias
+## Linguagens de desenvolvimento
 <div style="display: inline_block">
-  <img align="center" alt="Gui-HTMl" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" alt="Gui-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
-  <img align="center" alt="Gui-JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Gui-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>  
-  <img align="center" alt="Gui-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="Gui-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML-F5A623?logo=html5&logoColor=white&style=for-the-badge" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS-0469e1?logo=css3&logoColor=white&style=for-the-badge" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-FF6347?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>  
 
 ## GitHub Stats
