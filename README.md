@@ -2,7 +2,6 @@
 
 ### Meu nome é Guilherme.
 
-- :telephone: Atualmente estou trabalhando na Foundever como Suporte Técnico Jr.
 - :man_student: Estou cursando Análise e Desenvolvimento de Sistemas pela FIAP - (Faculdade de Informática e Administração Paulista).
 - :man_technologist: Desenvolvo aplicações Front-end e também Back-end.
 
