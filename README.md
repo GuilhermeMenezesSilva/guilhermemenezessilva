@@ -3,7 +3,7 @@
 ### Meu nome é Guilherme.
 
 - :man_student: Formado em Análise e Desenvolvimento de Sistemas pela FIAP - (Faculdade de Informática e Administração Paulista).
-- :man_technologist: Desenvolvo de aplicações Front-end e Back-end.
+- :man_technologist: Desenvolvedor de aplicações Front-end e Back-end.
 
 ## Meios de contato:
 <div>
